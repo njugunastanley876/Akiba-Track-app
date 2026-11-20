@@ -1,0 +1,61 @@
+{
+  "members": [
+    {
+      "id": "1",
+      "name": "Alice Wanjiku",
+      "phone": "0712345678",
+      "contribution": 50000,
+      "hasPaid": true,
+      "paymentDate": "1/5/2026",
+      "ReceivedPayout": false
+    },
+    {
+      "id": "2",
+      "name": "Brian Otieno",
+      "phone": "0723456789",
+      "contribution": 25000,
+      "hasPaid": true,
+      "paymentDate": "1/6/2026",
+      "ReceivedPayout": false
+    },
+    {
+      "id": "ZG1PG6dvMbg",
+      "name": "Bethwell kiprop",
+      "phone": "0735243534",
+      "contribution": 50000,
+      "hasPaid": true,
+      "paymentDate": "1/7/2026",
+      "ReceivedPayout": false
+    },
+    {
+      "name": "Laban Gichuru",
+      "phone": "0789678594",
+      "contribution": 5000,
+      "hasPaid": true,
+      "paymentDate": "12/20/2026",
+      "ReceivedPayout": false,
+      "id": "rQAyZRXW5JU"
+    }
+  ],
+  "chamas": [
+    {
+      "id": "1",
+      "name": "Umoja Savers Chama",
+      "description": "Monthly rotational savings for business & emergencies",
+      "maxMembers": 10,
+      "contributionAmount": 5000,
+      "dueDate": "2026-12-05",
+      "withdrawalRule": "Two-thirds approval"
+    },
+    {
+      "name": "Teachers chama",
+      "description": "Health insurance savings",
+      "maxMembers": 10,
+      "contributionAmount": 50000,
+      "dueDate": "2026-02-07",
+      "withdrawalRule": "Two-thirds approval",
+      "id": "GP12OzPwwis"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
